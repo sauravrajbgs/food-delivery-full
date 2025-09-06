@@ -1,0 +1,33 @@
+.add{
+    width: 70%;
+    margin-left: max(5vw ,25px);
+    margin-top: 50px;
+    color: #6d6d6d;
+    font-size: 16px;
+    align-items: center;
+    
+}
+/* .add-product-name{
+    height: 5px;
+    margin-bottom: 15px;
+} */
+.add-product-name input{
+    height: 30px;
+}
+
+.add-category select{
+    height: 30px;
+}
+.add-price input{
+    height: 30px;
+}
+.add-btn{
+    background-color: tomato;
+    width: 5rem;
+    height: 30px;
+    border-radius: 2rem;
+    align-items: center;
+    cursor: pointer;
+    justify-content: center;
+
+}
